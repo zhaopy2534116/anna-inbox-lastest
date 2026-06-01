@@ -8,7 +8,7 @@
   "binary_urls": {
     "windows-x86_64": {
       "url": "https://github.com/zhaopy2534116/anna-inbox-lastest/releases/download/v1.0.0/tool-zhaopy-inbox-tool-373sf2et-1.0.0-windows-x86_64.zip",
-      "sha256": "851fde8a4771195bac58ba95a8a5178486e2d53d2b30019aff5b1d539f6d5911",
+      "sha256": "6b625262e8e21b36a41b2564e767e9230c546b4ec82c251ca45357995793595c",
       "size": 7405354,
       "entrypoint": "bin/tool-zhaopy-inbox-tool-373sf2et.exe",
       "format": "zip"
@@ -17,7 +17,9 @@
   "description": "Anna Inbox — Gmail agent that surfaces attention cards and drafts replies via Executa Sampling LLM.",
   "host_capabilities": [
     "llm.sample",
-    "aps.kv"
+    "llm.complete",
+    "aps.kv",
+    "storage.user"
   ],
   "command": [
     "python3",
