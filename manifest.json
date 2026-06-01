@@ -13,7 +13,7 @@
   "required_executas": [
     {
       "tool_id": "tool-zhaopy-anna-inbox-tytvcy26",
-      "min_version": "1.0.3",
+      "min_version": "1.0.4",
       "version": "lastest"
     }
   ],

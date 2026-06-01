@@ -2,14 +2,14 @@
   "tool_id": "tool-zhaopy-anna-inbox-tytvcy26",
   "name": "tool-zhaopy-anna-inbox-tytvcy26",
   "display_name": "Zhaopy Mail Agent RD6B87R5",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "binary",
   "enabled": true,
   "binary_urls": {
     "windows-x86_64": {
-      "url": "https://github.com/zhaopy2534116/anna-inbox-lastest/releases/download/v1.0.3/tool-zhaopy-anna-inbox-tytvcy26-1.0.3-windows-x86_64.zip",
-      "sha256": "",
-      "size": 0,
+      "url": "https://github.com/zhaopy2534116/anna-inbox-lastest/releases/download/v1.0.4/tool-zhaopy-anna-inbox-tytvcy26-1.0.4-windows-x86_64.zip",
+      "sha256": "188be0e8c756bce900834ed1aa24c2888e691126bfedbdf3271c12f13d439502",
+      "size": 7405659,
       "entrypoint": "bin/tool-zhaopy-anna-inbox-tytvcy26.exe",
       "format": "zip"
     }
